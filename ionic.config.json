@@ -1,5 +1,7 @@
 {
   "name": "JermyBet",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
